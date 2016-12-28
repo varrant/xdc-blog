@@ -3,7 +3,7 @@
     <!--<section class="adminBox-footer text-center text-overflow"  ng-include="'web/tpl/copyright.footer.tpl.html'"></section>-->
     <div class="adminBox-content" :class="{'preview':isShowBigAdmin}" id="adminBox-content">
       <div class="adminBox-content-header">
-        <h1 class="text-right textItem"><span class="blue">X</span>-SONGTAO
+        <h1 class="text-right textItem"><span class="blue">Xdc</span>
           <small class="blue">后台管理</small>
         </h1>
       </div>

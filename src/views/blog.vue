@@ -6,7 +6,7 @@
       <div class="blog__content" v-show="!isShowMyWords">
         <div class="blog__content--inner">
           <transition name="blogTrans">
-              <router-view></router-view>
+           <router-view></router-view>
           </transition>
         </div>
       </div>

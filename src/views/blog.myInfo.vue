@@ -12,7 +12,7 @@
           </div>
         </section>
         <section class="detail__info">
-          <p class="name text-shadow"> {{myinfo.full_name || 'X-SONGTAO'}}</p>
+          <p class="name text-shadow"> {{myinfo.full_name || 'Xdc'}}</p>
           <p class="job text-shadow"> {{myinfo.position || '前端工程师&&Nodejs工程师'}}</p>
           <p class="address text-shadow hidden-xs">
             <span class="fa fa-map-marker"></span> <span>{{myinfo.address || '火星'}}</span>

@@ -5,7 +5,7 @@
       <a v-if="isMobile && this.$route.name=='article'" @click="navBack" class="nav__item" title="后退">
         <i class="fa fa-arrow-left  fa-fw fa-lg blue blackBG"></i>
       </a>
-      <a v-else class="nav__item" data-toggle="tooltip" data-placement="right" title="SongTao">
+      <a v-else class="nav__item" data-toggle="tooltip" data-placement="right" title="XDC">
         <span class="siteLogo"></span>
       </a>
       <router-link class="nav__item" :to="{ name: 'index'}" exact data-toggle="tooltip" activeClass="active"
