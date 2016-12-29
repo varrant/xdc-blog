@@ -1,7 +1,8 @@
-### 错误解决方式
-出现错误的解决
-cnpm i --no-cache
-npm rebuild node-sass
+﻿### 错误解决方式
+出现错误的解决fff
+#### 修改源 npm config set registry http://registry.npm.taobao.org/
+#### npm i --no-cache
+#### npm rebuild node-sass
 
 # X-SONGTAO@VUE
 
